@@ -12,3 +12,14 @@ h1 {
   font-style: italic;
   font-size: 20;
 }
+
+.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+.light-theme {
+  background: linear-gradient(to bottom, white, lightgray);
+  background-attachment: fixed;
+  color: black;
+}
